@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hey!Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 hello
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+hello-okay
+>>>>>>> 9931c52186818e0933c0211a9b9c6b8dafdda4b6
